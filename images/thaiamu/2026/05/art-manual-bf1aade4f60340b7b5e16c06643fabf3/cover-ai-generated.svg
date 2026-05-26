@@ -1,0 +1,26 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="450" fill="#FAF7F2"/>
+  <g transform="translate(400, 225) scale(1.2, 1.2)">
+    <circle cx="0" cy="0" r="150" fill="#B08A4A" stroke="#1a0a00" stroke-width="10"/>
+    <g transform="rotate(0)">
+      <path d="M 0 120 L 60 150 L 0 180 L -60 150 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5" transform="rotate(0)"/>
+      <path d="M 0 120 L 60 150 L 0 180 L -60 150 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5" transform="rotate(72)"/>
+      <path d="M 0 120 L 60 150 L 0 180 L -60 150 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5" transform="rotate(144)"/>
+      <path d="M 0 120 L 60 150 L 0 180 L -60 150 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5" transform="rotate(216)"/>
+      <path d="M 0 120 L 60 150 L 0 180 L -60 150 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5" transform="rotate(288)"/>
+    </g>
+    <path d="M -50 0 L 50 0 L 50 -100 L -50 -100 Z" fill="#1a0a00" transform="translate(0, -50)"/>
+  </g>
+  <g transform="translate(100, 50)">
+    <rect x="0" y="0" width="200" height="50" fill="#B08A4A" stroke="#1a0a00" stroke-width="5" rx="10"/>
+    <path d="M 0 50 L 50 100 L 100 50 L 150 100 L 200 50 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5"/>
+  </g>
+  <g transform="translate(500, 50)">
+    <rect x="0" y="0" width="200" height="50" fill="#B08A4A" stroke="#1a0a00" stroke-width="5" rx="10"/>
+    <path d="M 0 50 L 50 100 L 100 50 L 150 100 L 200 50 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5"/>
+  </g>
+  <g transform="translate(350, 200)">
+    <path d="M 0 0 L 50 100 L 100 0 L 150 100 L 200 0 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5"/>
+    <path d="M 0 0 L 50 100 L 100 0 L 150 100 L 200 0 Z" fill="#B08A4A" stroke="#1a0a00" stroke-width="5" transform="scale(-1, 1)"/>
+  </g>
+</svg>
